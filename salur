@@ -1,0 +1,11 @@
+Pour avoir projet sur Git :
+-> Créer un nouveau répertoire sur github.com
+->suivre commandes affichés (sauf 1 et 3) sur le dossier où est le fichier 
+->Pour mettre ds un autre dossier ou autre pc sur git bash : 
+  git init
+  git remot add origin https
+  git pull origin master
+ ->pour créer branche : git checkout -g develop
+                        git branch develoo
+                        git checkout develop
+  ////////////////////////////////////////////
