@@ -2,9 +2,9 @@ Se positionner dans le dossier du projet (cd et tout)
 ouvrir git bash en mode admin
 git init
 git add .
-git commit  "nom du commit"
+git commit  "nom du commit" // nom du commit = commentaire de ce que tu as fait
 Git remote add origin "lien httpps"
-git push origin master
+git push origin master // tu peut ajouter -f mais tu forces c nul mais lol 
 ///////////
 Pour avoir projet sur Git :
 -> Créer un nouveau répertoire sur github.com
