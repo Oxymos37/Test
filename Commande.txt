@@ -2,6 +2,18 @@ Se positionner dans le dossier du projet (cd et tout)
 ouvrir git bash en mode admin
 git init
 git add .
-git commit -n "nomdi commit"
+git commit  "nom du commit"
 Git remote add origin "lien httpps"
 git push origin master
+///////////
+Pour avoir projet sur Git :
+-> Créer un nouveau répertoire sur github.com
+->suivre commandes affichés (sauf 1 et 3) sur le dossier où est le fichier 
+->Pour mettre ds un autre dossier ou autre pc sur git bash : 
+  git init
+  git remot add origin https
+  git pull origin master
+ ->pour créer branche : git checkout -g develop
+                        git branch develoo
+                        git checkout develop
+  ////////////////////////////////////////////
